@@ -1,4 +1,6 @@
 # ☕ Royal Cafe Management System
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A feature-rich terminal-based Cafe Management System developed in Python as a second-year B.Tech Computer Science mini project. The project demonstrates object-oriented programming, secure authentication, data management using Pandas, and an interactive command-line interface built with the Rich library.
 
