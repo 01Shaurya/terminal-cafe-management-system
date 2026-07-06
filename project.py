@@ -121,7 +121,7 @@ class Administration_Member:
                         mdf=df2
                     else:
                     
-                        mdf=pd.concat([df1.df2])
+                        mdf=pd.concat([df1,df2])
                         mdf=mdf.drop_duplicates()
                     mdf.to_csv("discount.csv",index=False)            
             else:
